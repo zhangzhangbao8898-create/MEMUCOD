@@ -2,10 +2,10 @@
 
 ## Environment
 
-Enter the source directory:
+Enter the project directory:
 
 ```bat
-cd /d E:\MEMUCOD\src
+cd /d E:\MEMUCOD
 ```
 
 Create the conda environment:
@@ -53,6 +53,7 @@ MEMUCOD/
 Run training from the `src` directory:
 
 ```bat
+cd src
 python train.py
 ```
 
@@ -76,6 +77,7 @@ MEMUCOD/
 Run inference from the `src` directory:
 
 ```bat
+cd src
 python test.py
 ```
 

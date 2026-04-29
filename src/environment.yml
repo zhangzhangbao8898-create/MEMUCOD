@@ -1,0 +1,22 @@
+name: memucod
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - pytorch::torchaudio
+  - pytorch::pytorch-cuda=11.8
+  - numpy
+  - pillow
+  - scipy
+  - matplotlib
+  - tqdm
+  - pyyaml
+  - scikit-image
+  - opencv
+  - tensorboard
+  - pip

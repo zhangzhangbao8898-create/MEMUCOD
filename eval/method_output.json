@@ -1,0 +1,24 @@
+{
+    "ucos": {
+        "NC4K": {
+            "path": "E:\\UCOS-DA-main\\UCOS-DA-main\\src\\outputs\\dino\\1\\NC4K",
+            "prefix": "",
+            "suffix": ".png"
+        },
+        "CAMO": {
+            "path": "E:\\UCOS-DA-main\\UCOS-DA-main\\src\\outputs\\dino\\1\\CAMOtest250",
+            "prefix": "",
+            "suffix": ".png"
+        },
+        "COD10Kv3_test": {
+            "path": "E:\\UCOS-DA-main\\UCOS-DA-main\\src\\outputs\\dino\\1\\COD10Kv3_test",
+            "prefix": "",
+            "suffix": ".png"
+        },
+        "CHAMELEON": {
+            "path": "E:\\UCOS-DA-main\\UCOS-DA-main\\src\\outputs\\dino\\1\\CHAMELEON",
+            "prefix": "",
+            "suffix": ".png"
+        }
+    }
+}

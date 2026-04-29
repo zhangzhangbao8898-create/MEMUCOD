@@ -1,28 +1,28 @@
 {
     "NC4K": {
         "mask": {
-            "path": "C:\\ucos_data\\val\\NC4K\\GT",
+            "path": "data/test/NC4K/GT",
             "prefix": "",
             "suffix": ".png"
         }
     },
      "CAMO": {
         "mask": {
-            "path": "C:\\ucos_data\\val\\CAMOtest250\\GT",
+            "path": "data/test/CAMOtest250/GT",
             "prefix": "",
             "suffix": ".png"
         }
     },
      "COD10Kv3_test": {
         "mask": {
-            "path": "C:\\ucos_data\\val\\COD10Kv3_test\\GT",
+            "path": "data/test/COD10Kv3_test/GT",
             "prefix": "",
             "suffix": ".png"
         }
     },
     "CHAMELEON": {
         "mask": {
-            "path": "C:\\ucos_data\\val\\CHAMELEON\\GT",
+            "path": "data/test/CHAMELEON/GT",
             "prefix": "",
             "suffix": ".png"
         }
